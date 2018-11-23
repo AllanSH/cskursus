@@ -3,7 +3,54 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testkode", "Testkode\Testkode.csproj", "{5583C365-1A86-4179-B712-189CAD3EE728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugdemo", "Debugdemo\Debugdemo.csproj", "{88913C24-DE28-43E7-A7B2-32CA7B794D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaven Variabler", "ConsoleApp1\Opgaven Variabler.csproj", "{AC263A55-D306-409C-A544-A081724E7638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave dato_tid", "Opgave dato_tid\Opgave dato_tid.csproj", "{7EC62812-9C86-4766-8A9E-01C818DBC832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave Variabler text", "Opgave Variabler text\Opgave Variabler text.csproj", "{488368A5-7C84-449E-B92A-0053DB4B8D01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F2CD3D5-7601-4C95-A81B-3CF3D0DEF7CA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave Variabler struct_enum", "Opgave Variabler struct_enum\Opgave Variabler struct_enum.csproj", "{825725FD-F513-4081-8974-DFF74F89DC5D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5583C365-1A86-4179-B712-189CAD3EE728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5583C365-1A86-4179-B712-189CAD3EE728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5583C365-1A86-4179-B712-189CAD3EE728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5583C365-1A86-4179-B712-189CAD3EE728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88913C24-DE28-43E7-A7B2-32CA7B794D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88913C24-DE28-43E7-A7B2-32CA7B794D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88913C24-DE28-43E7-A7B2-32CA7B794D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88913C24-DE28-43E7-A7B2-32CA7B794D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC263A55-D306-409C-A544-A081724E7638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC263A55-D306-409C-A544-A081724E7638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC263A55-D306-409C-A544-A081724E7638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC263A55-D306-409C-A544-A081724E7638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC62812-9C86-4766-8A9E-01C818DBC832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC62812-9C86-4766-8A9E-01C818DBC832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC62812-9C86-4766-8A9E-01C818DBC832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC62812-9C86-4766-8A9E-01C818DBC832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488368A5-7C84-449E-B92A-0053DB4B8D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488368A5-7C84-449E-B92A-0053DB4B8D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488368A5-7C84-449E-B92A-0053DB4B8D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488368A5-7C84-449E-B92A-0053DB4B8D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825725FD-F513-4081-8974-DFF74F89DC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825725FD-F513-4081-8974-DFF74F89DC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825725FD-F513-4081-8974-DFF74F89DC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825725FD-F513-4081-8974-DFF74F89DC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
