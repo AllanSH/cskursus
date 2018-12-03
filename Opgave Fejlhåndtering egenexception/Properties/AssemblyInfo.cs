@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Opgave Fejlhåndtering")]
+[assembly: AssemblyTitle("Opgave Fejlhåndtering egenexception")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Opgave Fejlhåndtering")]
+[assembly: AssemblyProduct("Opgave Fejlhåndtering egenexception")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f435e9b4-6ea0-42fc-955a-206e2f0f2807")]
+[assembly: Guid("a1bb76ae-211c-4245-a6ab-2254fe7f62b3")]
 
 // Version information for an assembly consists of the following four values:
 //
