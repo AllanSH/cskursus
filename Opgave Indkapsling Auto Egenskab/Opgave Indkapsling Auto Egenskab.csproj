@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C715A7D8-30D1-4918-B046-29075DC463BB}</ProjectGuid>
+    <ProjectGuid>{5374FEDE-EF67-452E-8D78-CF653DC7DD5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Opgave_Klasser_Terning</RootNamespace>
-    <AssemblyName>Opgave Klasser Terning</AssemblyName>
+    <RootNamespace>Opgave_Indkapsling_Auto_Egenskab</RootNamespace>
+    <AssemblyName>Opgave Indkapsling Auto Egenskab</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
