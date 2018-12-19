@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave Delegates Lambda", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave Events FileWatcher", "Opgave Events FileWatcher\Opgave Events FileWatcher.csproj", "{9C0A0731-1A72-4E14-914F-07D5F3B06602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave LINQ to Objects person", "Opgave LINQ to Objects person\Opgave LINQ to Objects person.csproj", "{08BD7685-2C8E-48B0-9337-BF75B13F117D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -506,6 +508,26 @@ Global
 		{9C0A0731-1A72-4E14-914F-07D5F3B06602}.Release|x64.Build.0 = Release|Any CPU
 		{9C0A0731-1A72-4E14-914F-07D5F3B06602}.Release|x86.ActiveCfg = Release|Any CPU
 		{9C0A0731-1A72-4E14-914F-07D5F3B06602}.Release|x86.Build.0 = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|ARM.Build.0 = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|x64.Build.0 = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Debug|x86.Build.0 = Debug|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|ARM.Build.0 = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|ARM64.Build.0 = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|x64.ActiveCfg = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|x64.Build.0 = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|x86.ActiveCfg = Release|Any CPU
+		{08BD7685-2C8E-48B0-9337-BF75B13F117D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
